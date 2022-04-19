@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+body{
+    background-image: url(./img/form1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1{
+    font-size: 3rem;
+    color: rgb(44, 37, 37);
+    margin-bottom: 1rem;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 28px;
+    margin-top: 1rem;
+    width: auto;
+    height: 40px;
+    border: 4px solid black;
+    border-radius: 1rem;
+
+}
+button {
+    font-size: 34px;
+    background-color: rgb(26, 210, 201);
+    width: 80px;
+    height: 57px;
+    margin: 4px;
+    border-radius: 1rem;
+}
+.calculator{
+    display: inline-block;
+    background-color: rgba(76, 106, 106, 0.66);
+    padding: 23px;
+    border-radius: 2rem;
+    border: 2px solid rgb(0, 0, 0);
+}
